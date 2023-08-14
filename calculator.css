@@ -1,0 +1,23 @@
+.title{
+    background-color:yellow;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin: 20px 0 25px;
+    border: solid red 3px;
+}
+.chandra{
+    text-align: center;
+    padding: 10%;
+    background-color: black;
+
+}
+input{
+    background-color: burlywood;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    border: solid chartreuse 5px;
+    width: 100%;
+    height: 100%;
+}
